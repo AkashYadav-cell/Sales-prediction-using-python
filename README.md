@@ -1,4 +1,4 @@
-# Sales-prediction-using-python(Encryptx taskk-4)
+# Sales-prediction-using-python(Encryptx task-4)
 
 • Sales prediction involves forecasting the amount of a product that customers
 will purchase, taking into account various factors such as advertising
